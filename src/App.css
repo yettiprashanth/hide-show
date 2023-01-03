@@ -1,0 +1,23 @@
+/* *{
+  text-transform: capitalize;
+}
+.card{
+  margin-top: 50px;
+  margin-left: 300px;
+  
+  
+}
+.card-img{
+  width: 500px;
+  height:300px;
+  object-fit: cover;
+}
+.btn1{
+  margin-left: 500px;
+  margin-top:0px;
+} */
+.card-img{
+  width: 500px;
+  height:300px;
+  object-fit: cover;
+}
